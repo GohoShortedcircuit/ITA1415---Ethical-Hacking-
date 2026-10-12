@@ -1,0 +1,14 @@
+sudo apt update
+sudo apt install tree
+tree
+mkdir EH
+cd EH
+touch file1.txt
+tree
+mkdir Unit1
+cd Unit1
+touch topic1.txt
+touch topic2.txt
+touch topic3.txt
+touch topic4.txt
+tree
