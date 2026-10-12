@@ -1,0 +1,7 @@
+touch sample1.txt
+ls
+touch sample2.txt
+ls
+touch sample3.txt
+ls
+rm sample3.txt
